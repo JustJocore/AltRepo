@@ -18,6 +18,7 @@
           "tintColor": "#F54F32",
           "category": "games",
           "iconURL": "https://github.com/JustJocore/AltRepo/blob/main/bslogo.png",
+          "marketplaceID": "123",
           "versions": [
           {
             "version": "1.0",
