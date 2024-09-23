@@ -1,0 +1,28 @@
+{
+    "name": "Jocore's AltStore Repo",
+    "subtitle": "A source of Popular Hacks and Games",
+    "description": "No idea what to write here...",
+    "iconURL": "https://github.com/JustJocore/AltRepo/logo.jpeg",
+    "website": "https://github.com/JustJocore/AltRepo",
+    "tintColor": "#F54F32",
+    "featuredApps": [
+      "com.example.myapp",
+      "com.example.anotherapp"
+    ],
+    "apps": [
+      {
+          "name": "BrawlStars iPA",
+          "bundleIdentifier": "com.supercell.laser",
+          "marketplaceID": "101",
+          "developerName": "Supercell",
+          "subtitle": "Brawlstars without the AppLock",
+          "localizedDescription": "",
+          "tintColor": "#F54F32",
+          "category": "games",
+          "versions": [],
+          "appPermissions": {},
+      },
+  ],
+  
+  "news": []
+  }
