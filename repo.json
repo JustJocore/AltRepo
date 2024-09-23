@@ -2,11 +2,11 @@
     "name": "Jocore's AltStore Repo",
     "subtitle": "A source of Popular Hacks and Games",
     "description": "No idea what to write here...",
-    "iconURL": "https://github.com/JustJocore/AltRepo/logo.jpeg",
+    "iconURL": "https://github.com/JustJocore/AltRepo/blob/logo.jpeg",
     "website": "https://github.com/JustJocore/AltRepo",
     "tintColor": "#F54F32",
     "featuredApps": [
-      "com.supercell.laser",
+      "com.supercell.laser"
     ],
     "apps": [
       {
@@ -27,10 +27,10 @@
             "size": 79821,
             "minOSVersion": "15.0",
             "maxOSVersion": "18.3"
-          },
+          }
         ],
-          "appPermissions": {},
-      },
+          "appPermissions": {}
+      }
   ],
   
   "news": []
