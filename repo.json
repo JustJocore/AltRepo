@@ -12,7 +12,6 @@
       {
           "name": "BrawlStars iPA",
           "bundleIdentifier": "com.supercell.laser",
-          "marketplaceID": "101",
           "developerName": "Supercell",
           "subtitle": "Brawlstars without the AppLock",
           "localizedDescription": "",
