@@ -6,8 +6,7 @@
     "website": "https://github.com/JustJocore/AltRepo",
     "tintColor": "#F54F32",
     "featuredApps": [
-      "com.example.myapp",
-      "com.example.anotherapp"
+      "com.supercell.laser",
     ],
     "apps": [
       {
