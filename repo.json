@@ -2,7 +2,7 @@
     "name": "Jocore's AltStore Repo",
     "subtitle": "A source of Popular Hacks and Games",
     "description": "No idea what to write here...",
-    "iconURL": "https://github.com/JustJocore/AltRepo/blob/logo.jpeg",
+    "iconURL": "https://github.com/JustJocore/AltRepo/blob/main/logo.jpeg",
     "website": "https://github.com/JustJocore/AltRepo",
     "tintColor": "#F54F32",
     "featuredApps": [
@@ -17,7 +17,7 @@
           "localizedDescription": "",
           "tintColor": "#F54F32",
           "category": "games",
-          "iconURL": 
+          "iconURL": "https://github.com/JustJocore/AltRepo/blob/main/bslogo.png",
           "versions": [
           {
             "version": "1.0",
